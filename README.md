@@ -5,5 +5,5 @@ OUSF部室用に構築する予定の書籍管理システム。
 個人認証も行えると面白いかも  
 あと重要視したいのが、かっこいいUI！SFだからね！！！！！！  
 
-React+Express+sequelize+sqliteで実装する予定  
+React+Express+sequelize+MySQLで実装する予定  
 フロントでモーションをガンガンに使いたいのでそこらへんの制御はvelocity-reactで行う。  
